@@ -6,14 +6,13 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
 
 ## 🏢 About the Internship
 
-- **Organization:** Codetech IT Solutions
-- **Domain:** Cloud Computing
-- **Mode:** Virtual (Remote)
-- **Internship Type:** Task-based
-- **Duration:** 4 Weeks
+- **Organization:** Codetech IT Solutions  
+- **Domain:** Cloud Computing  
+- **Mode:** Virtual (Remote)  
+- **Internship Type:** Task-based  
+- **Duration:** 4 Weeks  
 
 ---
-
 
 ## ✅ Task Details and Deliverables
 
@@ -28,9 +27,14 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
   - Configure access permissions (public/private)
 
 - **Deliverables:**  
-  - Screenshots of the bucket configuration  
-  - Access link (if public)  
-  - Brief setup guide or explanation
+  - Screenshots of the bucket configuration:  
+    ![Task-1-SS-1](https://github.com/user-attachments/assets/cafab204-adbe-4f41-a948-95f8b4955098)
+    ![image](https://github.com/user-attachments/assets/d59100bc-74b2-4adc-aea5-134c7405896d)
+    ![image](https://github.com/user-attachments/assets/cd859bcc-f030-47cd-9905-ec2f654a4bf3)
+    
+
+  - Brief setup guide or explanation:  
+    The bucket was created using AWS S3. Sample files were uploaded and made public by configuring bucket permissions. IAM roles were used to limit unauthorized access.
 
 ---
 
@@ -87,9 +91,9 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
 
 By completing this internship, I gained practical experience in:
 
-- Using cloud storage services (AWS S3 / GCP Storage)
-- Monitoring cloud applications and configuring alerts
-- Designing distributed architectures across multiple cloud platforms
+- Using cloud storage services (AWS S3 / GCP Storage)  
+- Monitoring cloud applications and configuring alerts  
+- Designing distributed architectures across multiple cloud platforms  
 - Implementing secure access control and encryption in the cloud
 
 ---
@@ -103,5 +107,3 @@ I would like to thank **Codetech IT Solutions** for offering this opportunity an
 > *“Cloud is about how you do computing, not where you do computing.” – Paul Maritz*
 
 ---
-
-
