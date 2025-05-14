@@ -51,8 +51,12 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
 
 - **Deliverables:**  
   - Screenshot of monitoring dashboard  
-  - Configured alerts summary  
-  - Explanation of setup and purpose of each metric/alert
+    ![TASK-2-SS-1](https://github.com/user-attachments/assets/488d2851-a334-47cf-80cd-fe1789c1d4ce)
+    ![TASK-2-SS-2](https://github.com/user-attachments/assets/d4b79d96-c6e2-4a06-9b4e-a693c2d9656a)
+    ![TASK-2-SS-3](https://github.com/user-attachments/assets/cc35efa2-aa0a-45e7-9a49-413f1af65409)
+    ![TASK-2-SS-4](https://github.com/user-attachments/assets/d41a435f-cee7-4160-8063-f0f40db262ce)
+    ![TASK-2-SS-5](https://github.com/user-attachments/assets/e4993f46-d3a4-4f27-bb18-2735f0099653)
+
 
 ---
 
