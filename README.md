@@ -70,13 +70,25 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
   - Show how the systems interact (API, database replication, etc.)
 
 - **Deliverables:**  
-  - Architecture diagram  
-  - Documentation explaining the architecture  
-  - Screenshots or demo links (if applicable)
+  - Screenshots 
+  ![Screenshot 2025-05-31 122932](https://github.com/user-attachments/assets/304a8421-e2f6-4f55-84b2-c39dc54ecd09)
+  ![Screenshot 2025-05-31 123104](https://github.com/user-attachments/assets/955105e9-f598-4c9d-869c-c8a6093d7f0a)
+  ![Screenshot 2025-05-31 123129](https://github.com/user-attachments/assets/31f5b8db-23cf-4578-901e-f65326e54355)
+  ![Screenshot 2025-05-31 123739](https://github.com/user-attachments/assets/3f683436-ddde-4461-8e4b-4cca87d5e524)
+  ![Screenshot 2025-05-31 123838](https://github.com/user-attachments/assets/58eed8c9-d359-4a39-87df-bf3fe8829444)
+  ![Screenshot 2025-05-31 135101](https://github.com/user-attachments/assets/cfeeb341-3c43-4fee-8a26-6dd23d4bf588)
+  ![Screenshot 2025-05-31 123235](https://github.com/user-attachments/assets/e8ada075-3dea-4407-b19c-08bcc4d52637)
+  ![Screenshot 2025-05-31 123406](https://github.com/user-attachments/assets/729cce06-fba9-4789-8b5b-becc8cc69aa1)
+  ![Screenshot 2025-05-31 123519](https://github.com/user-attachments/assets/461c2242-0cac-458e-8d38-2d454188dfd7)
+  ![Screenshot 2025-05-31 123552](https://github.com/user-attachments/assets/8a17227e-c15a-4d3f-b933-efcbca8a5597)
+  ![Screenshot 2025-05-31 123604](https://github.com/user-attachments/assets/ee110a81-5fee-4a73-890d-f67e5375f77b)
+  ![Screenshot 2025-05-31 123616](https://github.com/user-attachments/assets/aaa4c180-2264-43c5-b4f2-6639de7ea7ec)
+  ![Screenshot 2025-05-31 124515](https://github.com/user-attachments/assets/289e3de1-f4f1-46c0-a81d-8bed4ec8ad18)
+
 
 ---
 
-### 🔐 Task 4: Cloud Security Implementation
+### 🔐 Task 4: Cloud Security Implementation  
 
 - **Objective:**  
   Implement **cloud security features** such as IAM policies, secure storage, and data encryption.
