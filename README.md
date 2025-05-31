@@ -66,8 +66,8 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
   Design and demonstrate a **multi-cloud architecture** using at least **two cloud providers**.
 
 - **Instructions:**  
-  - Distribute application/services between two platforms (e.g., AWS and GCP)  
-  - Show how the systems interact (API, database replication, etc.)
+  - Distribute application/services between two platforms (e.g., AWS and Azure)  
+  - Show how the systems interact
 
 - **Deliverables:**  
   - Screenshots 
