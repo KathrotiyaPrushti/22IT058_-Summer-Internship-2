@@ -70,7 +70,8 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
   - Show how the systems interact
 
 - **Deliverables:**  
-  - Screenshots 
+  - Screenshots
+  ![WhatsApp Image 2025-05-31 at 22 27 37_1965a5a3](https://github.com/user-attachments/assets/41e62cfd-c331-4ce6-a15d-dcfd08dccefb)
   ![Screenshot 2025-05-31 122932](https://github.com/user-attachments/assets/304a8421-e2f6-4f55-84b2-c39dc54ecd09)
   ![Screenshot 2025-05-31 123104](https://github.com/user-attachments/assets/955105e9-f598-4c9d-869c-c8a6093d7f0a)
   ![Screenshot 2025-05-31 123129](https://github.com/user-attachments/assets/31f5b8db-23cf-4578-901e-f65326e54355)
