@@ -100,9 +100,14 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
   - Secure buckets or services
 
 - **Deliverables:**  
-  - IAM policy configuration screenshots/code  
-  - Report/documentation of the security setup  
-  - Examples of secure file access or encryption
+  - Screenshots
+  ![Screenshot 2025-06-01 104422 1](https://github.com/user-attachments/assets/c7d6cb4d-38db-4aa3-8473-f918f8d93a83)
+  ![Screenshot 2025-06-01 104611 1](https://github.com/user-attachments/assets/ae9cc41d-1be4-4940-a434-6014a5e7004a)
+  ![Screenshot 2025-06-01 104734 1](https://github.com/user-attachments/assets/6bdc91d9-3883-4b44-9dfb-179075666f40)
+  ![Screenshot 2025-06-01 105403 1](https://github.com/user-attachments/assets/a5829a1b-ee8c-43f9-a484-ebb0b91db9d0)
+  ![Screenshot 2025-06-01 104826 1](https://github.com/user-attachments/assets/b40eabbf-6237-4c93-a5b9-9949b07c9680)
+  ![Screenshot 2025-06-01 104838 1](https://github.com/user-attachments/assets/b2c89650-811f-4a77-93bc-2995fb5979f4)
+
 
 ---
 
@@ -110,7 +115,7 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
 
 By completing this internship, I gained practical experience in:
 
-- Using cloud storage services (AWS S3 / GCP Storage)  
+- Using cloud storage services (AWS S3)  
 - Monitoring cloud applications and configuring alerts  
 - Designing distributed architectures across multiple cloud platforms  
 - Implementing secure access control and encryption in the cloud
@@ -124,5 +129,13 @@ I would like to thank **Codetech IT Solutions** for offering this opportunity an
 ---
 
 > *“Cloud is about how you do computing, not where you do computing.” – Paul Maritz*
+
+---
+
+## 🔗 Connect With Me
+
+📧 Email: prushtikathrotiya@gmail.com 
+
+💼 LinkedIn: [www.linkedin.com/in/prushti-kathrotiya-381047252](www.linkedin.com/in/prushti-kathrotiya-381047252)  
 
 ---
