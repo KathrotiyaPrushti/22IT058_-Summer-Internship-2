@@ -128,14 +128,14 @@ I would like to thank **Codetech IT Solutions** for offering this opportunity an
 
 ---
 
-> *“Cloud is about how you do computing, not where you do computing.” – Paul Maritz*
-
----
-
 ## 🔗 Connect With Me
 
 📧 Email: prushtikathrotiya@gmail.com 
 
 💼 LinkedIn: [www.linkedin.com/in/prushti-kathrotiya-381047252](www.linkedin.com/in/prushti-kathrotiya-381047252)  
+
+---
+
+> *“Cloud is about how you do computing, not where you do computing.” – Paul Maritz*
 
 ---
