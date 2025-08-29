@@ -1,6 +1,6 @@
 # 🌐 CodTech IT Solutions — Cloud Computing Internship
 
-Welcome to my official GitHub repository for the **Cloud Computing Internship** offered by **Codetech IT Solutions**. This repository contains all the work and documentation related to the internship, including the tasks assigned, their solutions, and the learning outcomes.
+Welcome to my official GitHub repository for the **Cloud Computing Internship** offered by **Codtech IT Solutions**. This repository contains all the work and documentation related to the internship, including the tasks assigned, their solutions, and the learning outcomes.
 
 ---
 
