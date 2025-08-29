@@ -6,7 +6,7 @@ Welcome to my official GitHub repository for the **Cloud Computing Internship** 
 
 ## 🏢 About the Internship
 
-- **Organization:** Codetech IT Solutions  
+- **Organization:** Codtech IT Solutions  
 - **Domain:** Cloud Computing  
 - **Mode:** Virtual (Remote)  
 - **Internship Type:** Task-based  
@@ -124,7 +124,7 @@ By completing this internship, I gained practical experience in:
 
 ## 🙏 Acknowledgment
 
-I would like to thank **Codetech IT Solutions** for offering this opportunity and providing valuable guidance throughout this internship. This experience has helped me gain practical insights into real-world cloud computing solutions.
+I would like to thank **Codtech IT Solutions** for offering this opportunity and providing valuable guidance throughout this internship. This experience has helped me gain practical insights into real-world cloud computing solutions.
 
 ---
 
